@@ -29,8 +29,8 @@ A beautiful and responsive product dashboard built using **React.js**. Features 
 1. **Clone the repo**
 
 ```bash
-git clone https://github.com/your-username/product-dashboard.git
-cd product-dashboard
+git clone https://github.com/vinayak0603/Ace360-Assignment.git
+cd client
 ```
 
 2. **Install dependencies**
@@ -94,9 +94,11 @@ src/
 
 ## 📜 Video Link
 
-
+https://drive.google.com/file/d/1tD5D1zTUQE7Eznkm5nRknM86gfL3lB5C/view?usp=drivesdk
 ---
 
 ## 📜 Live Link
+
+https://ace360-assignment.netlify.app/
 
 ---
