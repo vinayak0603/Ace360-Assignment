@@ -1,13 +1,13 @@
 // src/App.jsx
 import { Routes, Route } from "react-router-dom";
-import Index from "./pages";
+import Home from "./pages/Home";
 import { AuthProvider } from "./contexts/AuthContext"; // adjust path if needed
 
 const App = () => {
   return (
     <AuthProvider>
       <Routes>
-        <Route path="/" element={<Index />} />
+        <Route path="/" element={<Home />} />
       </Routes>
     </AuthProvider>
   );

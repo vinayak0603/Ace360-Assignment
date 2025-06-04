@@ -2,7 +2,7 @@ import React from 'react';
 import ProtectedRoute from '../components/ProtectedRoute';
 import Dashboard from '../components/Dashboard';
 
-const Index = () => {
+const Home = () => {
   return (
     <ProtectedRoute>
       <Dashboard />
@@ -10,4 +10,4 @@ const Index = () => {
   );
 };
 
-export default Index;
+export default Home;
